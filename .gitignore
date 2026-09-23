@@ -1,0 +1,10 @@
+# Large trip data — download separately, see README
+*.parquet
+
+# Byte-compiled / cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
